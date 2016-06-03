@@ -10,6 +10,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+//notes
+// text file route folder is bin/debug. If files are stored here only the name of the file and the extension (i.e .txt) is required
+// if locating text files within a folder in this location enter file names as foldername/filename.txt.
+
+ 
 namespace LogFileEditor
 {
     public partial class Form1 : Form
