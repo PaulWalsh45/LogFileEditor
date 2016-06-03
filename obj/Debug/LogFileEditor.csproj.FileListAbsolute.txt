@@ -1,0 +1,9 @@
+C:\Users\PXWalsh\LogFileEditor\LogFileEditor\bin\Debug\LogFileEditor.exe.config
+C:\Users\PXWalsh\LogFileEditor\LogFileEditor\obj\Debug\LogFileEditor.csprojResolveAssemblyReference.cache
+C:\Users\PXWalsh\LogFileEditor\LogFileEditor\obj\Debug\LogFileEditor.Form1.resources
+C:\Users\PXWalsh\LogFileEditor\LogFileEditor\obj\Debug\LogFileEditor.Properties.Resources.resources
+C:\Users\PXWalsh\LogFileEditor\LogFileEditor\obj\Debug\LogFileEditor.csproj.GenerateResource.Cache
+C:\Users\PXWalsh\LogFileEditor\LogFileEditor\bin\Debug\LogFileEditor.exe
+C:\Users\PXWalsh\LogFileEditor\LogFileEditor\bin\Debug\LogFileEditor.pdb
+C:\Users\PXWalsh\LogFileEditor\LogFileEditor\obj\Debug\LogFileEditor.exe
+C:\Users\PXWalsh\LogFileEditor\LogFileEditor\obj\Debug\LogFileEditor.pdb
