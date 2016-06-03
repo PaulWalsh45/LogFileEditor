@@ -82,7 +82,7 @@ namespace LogFileEditor
             foreach (var str in ReadLines)
             {
                 writer.WriteLine(ExtractNumber(str));
-                //writer.WriteLine(str);
+                
             }
             writer.Close();
             MessageBox.Show("Success");
